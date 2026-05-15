@@ -1,3 +1,4 @@
+# Michelle Ojeda Daza - Calidad de software 
 # Sistema de Seguimiento Académico
 ## Documento de Proyecto – Especificación, Casos de Uso y Pruebas
 
